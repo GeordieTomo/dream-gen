@@ -1,5 +1,10 @@
 # Dream Gen
 
+## What is Dream Gen?
+Dream Gen is a polyrhythm generator and visualiser. To see more about it, or purchase the application, please see the [Steam Page](https://store.steampowered.com/app/2862580/Dream_Gen/).
+
+This repository includes the source code. This repository does not include all of the different sounds and presets that come with the application when purchased through Steam.
+
 ## How to run
 1. install unity hub
 https://unity.com/download
